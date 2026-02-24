@@ -10,7 +10,7 @@ I'm Rejkyo. Or Reikyo, however you wish to pronounce it with [J] or either [I].
     Discord(rejkyo)
     Matrix(@rejkyo:matrix.org)
 
-
+##
 <img src="https://rejkyo.neocities.org/poweredbynixos.png" />
 <!--
 **Rejkyo/Rejkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
