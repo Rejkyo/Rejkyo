@@ -1,5 +1,11 @@
-## Hi there 👋
+## Heyy👋
 
+I'm Rejkyo. Or Reikyo, however you wish to pronounce it with [J] or either [I].
+
+- Currently learning(at least trying to) Java, Nix
+- Languages : Russian (Main), English (B1-B2)
+- Pronouns : He/Him
+- You can reach me in : <span title="rejkyo" style="text-decoration: dotted underline; cursor: help;">Discord</span>, <span title="@rejkyo:matrix:org" style="text-decoration: dotted underline; cursor: help;">Matrix</span>
 <!--
 **Rejkyo/Rejkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
