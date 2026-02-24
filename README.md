@@ -11,8 +11,8 @@ I'm Rejkyo. Or Reikyo, however you wish to pronounce it with [J] or either [I].
     Matrix(@rejkyo:matrix.org)
 
 ##
-<img src="https://rejkyo.neocities.org/poweredbynixos.png" />
-<img src="https://rejkyo.neocities.org/firefox3.gif" />
+<img src="https://raw.githubusercontent.com/Rejkyo/Rejkyo/refs/heads/main/Images/poweredbynixos.png" /> <img src="https://raw.githubusercontent.com/Rejkyo/Rejkyo/refs/heads/main/Images/firefox3.gif" /> <img src="https://raw.githubusercontent.com/Rejkyo/Rejkyo/refs/heads/main/Images/insane-tbh.gif" /> <img src="https://raw.githubusercontent.com/Rejkyo/Rejkyo/refs/heads/main/Images/bad-at-spelling-button.gif" />
+
 <!--
 **Rejkyo/Rejkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
