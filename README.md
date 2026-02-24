@@ -4,7 +4,7 @@ I'm Rejkyo. Or Reikyo, however you wish to pronounce it with [J] or either [I].
 
 - Currently learning(at least trying to) Java, Nix.
 - Languages : Russian (Main), English (B1-B2).
-- Interested in/Have a liking in : A bunch of things, e.g. - Any tech stuff about computers, literally any; Music; Gaming. 
+- Interested in/Have a liking in : A bunch of things, e.g. - Any tech stuff about computers, literally any; Music; Gaming; 90's PC and internet aesthetic. 
 - Fun fact : ADHD.
 - You can reach me in :
     Discord(rejkyo)
@@ -12,6 +12,7 @@ I'm Rejkyo. Or Reikyo, however you wish to pronounce it with [J] or either [I].
 
 ##
 <img src="https://rejkyo.neocities.org/poweredbynixos.png" />
+<img src="https://rejkyo.neocities.org/firefox3.gif" />
 <!--
 **Rejkyo/Rejkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
