@@ -2,10 +2,16 @@
 
 I'm Rejkyo. Or Reikyo, however you wish to pronounce it with [J] or either [I].
 
-- Currently learning(at least trying to) Java, Nix
-- Languages : Russian (Main), English (B1-B2)
-- Pronouns : He/Him
-- You can reach me in : <span title="rejkyo" style="color: #ffdc7a;">Discord</span>, <span title="@rejkyo:matrix:org" style="text-decoration: dotted underline; cursor: help;">Matrix</span>
+- Currently learning(at least trying to) Java, Nix.
+- Languages : Russian (Main), English (B1-B2).
+- Interested in/Have a liking in : A bunch of things, e.g. - Any tech stuff about computers, literally any; Music; Gaming. 
+- Fun fact : ADHD.
+- You can reach me in :
+    Discord(rejkyo)
+    Matrix(@rejkyo:matrix.org)
+
+
+<img src="https://rejkyo.neocities.org/poweredbynixos.png" />
 <!--
 **Rejkyo/Rejkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
