@@ -2,7 +2,7 @@
 
 I'm Rejkyo. Or Reikyo, however you wish to pronounce it with [J] or either [I].
 
-- Currently learning(at least trying to) Java, Nix.
+- Currently learning(at least trying to, don't have much free time) Java, Nix.
 - Languages : Russian (Main), English (B1-B2).
 - Interested in/Have a liking in : A lot of things, e.g. - Any tech stuff about computers, literally any; Music; Gaming; 90's PC and internet aesthetic.
 - Fun fact : ADHD.
