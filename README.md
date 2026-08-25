@@ -7,8 +7,8 @@ Languages : Russian (Main), English (B1-B2).<br />
 Interested in/Have a liking in : A lot of things, e.g. - Any tech stuff about computers, literally any; Music; Gaming; 90's PC and internet aesthetic.<br />
 Fun fact : ADHD.<br />
 Here you can reach out to me(for any reason you would like to) :<br />
-&nbsp;&nbsp;Discord(rejkyo)<br />
-&nbsp;&nbsp;Matrix(@rejkyo:matrix.org)<br /><br />
+&nbsp;&nbsp;``Discord(rejkyo)<br />``
+&nbsp;&nbsp;``Matrix(@rejkyo:matrix.org)<br /><br />``
 I have a neocities website which includes much more info.
 
 ##
